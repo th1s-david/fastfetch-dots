@@ -18,4 +18,4 @@ chmod +x install.sh
 
 # Preview
 
-![preview.png]
+![](preview.png)
