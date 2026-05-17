@@ -19,4 +19,5 @@ chmod +x install.sh
 # Preview
 > [!NOTE]
 > Preview is in an unconfigured Kitty terminal. It may look different in yours.
+
 ![](preview.png)
