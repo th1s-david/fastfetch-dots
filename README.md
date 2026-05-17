@@ -21,3 +21,7 @@ chmod +x install.sh
 > Preview is in an unconfigured Kitty terminal. It may look different in yours.
 
 ![](preview.png)
+
+# Customizing
+Modify `config.jsonc` to your liking. To add images or gifs, I recommend putting them in the images folder, so you only need to change the filename.
+If you are changing the image, you should change the padding too.
