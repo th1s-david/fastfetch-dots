@@ -1,7 +1,7 @@
 # fastfetch-dots
 
-[!IMPORTANT]
-This config requires using Kitty to work, since it uses the kitty-icat protocol.
+> [!IMPORTANT]
+> This config requires using Kitty to work, since it uses the kitty-icat protocol.
 
 Nice little fastfetch config that I use on my computer.
 
