@@ -15,3 +15,7 @@ cd fastfetch-dots
 chmod +x install.sh
 ./install.sh
 ```
+
+# Preview
+
+![preview.png]
